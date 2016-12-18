@@ -1,0 +1,22 @@
+kPlayer1
+Plains,Mountains,Plains,Plains,Plains,Plains,Plains,Plains,Plains,Plains
+Plains,Plains,Mountains,Plains,Plains,Plains,Plains,Plains,Plains,Plains
+Plains,Plains,Plains,Mountains,Plains,Plains,Plains,Plains,Plains,Plains
+Plains,Plains,Plains,Plains,Mountains,Plains,Plains,Plains,Mountains,Plains
+Plains,Plains,Plains,Plains,Plains,Mountains,Plains,Plains,Plains,Plains
+Plains,Plains,Plains,Plains,Plains,Plains,Mountains,Plains,Plains,Plains
+Plains,Plains,Plains,Plains,Plains,Plains,Plains,Mountains,Plains,Plains
+Plains,Plains,Mountains,Plains,Plains,Plains,Plains,Plains,Mountains,Plains
+Plains,Plains,Plains,Plains,Plains,Plains,Plains,Plains,Plains,Mountains
+Plains,Plains,Plains,Plains,Plains,Plains,Plains,Plains,Plains,Plains
+~,9,0,Brute,kPlayer1,100,3,true
+~,9,3,Spearman,kPlayer1,100,3,true
+~,8,1,Spearman,kPlayer1,100,3,true
+~,7,3,Brute,kPlayer1,100,3,true
+~,5,3,Brute,kPlayer1,100,3,true
+~,0,9,Brute,kPlayer2,100,3,true
+~,3,9,Spearman,kPlayer2,100,3,true
+~,1,8,Spearman,kPlayer2,100,3,true
+~,3,7,Brute,kPlayer2,100,3,true
+~,3,5,Brute,kPlayer2,100,3,true
+The two settlements, Leaftron and Cromagmar are divided by a small mountain range. The mountain range, however, is far from impassable and has done little to separate these warring peoples. The only solution, as far as either is concerned, is the complete annihilation of the other.

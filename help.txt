@@ -1,0 +1,66 @@
+Welcome to Toleco!
+
+Toleco is a turn-based strategy game featuring cavemen.
+
+Getting Started:
+   1. Click "New Game".
+   2. Select the map you wish to play from the file chooser.
+   3. Click "Load" to load the game.
+
+Playing a Turn:
+   1. The player currently taking their turn is denoted by the color of the background
+      for the buttons. The color matches the emblems of that player's units.
+   2. To find out more about any location on the map, simply click on it and all
+      relevant information will be displayed in the status pane.
+   3. A player may move or attack with as few or as many of their units as they choose
+      each turn
+   4. If a unit uses up all of its available moves and has attacked, it will turn grey
+      to indicate that it can perform no further actions.
+   5. When you are finished with your turn, click "End Turn" and pass the controls over
+      to your opponent.
+
+Movement:
+   1. Select the unit you wish to move.
+   2. Use the arrow keys to tell the selected unit in which direction to move.
+   3. Each move costs the unit movement points based on the movement cost of the terrain.
+   4. When a unit runs out of movement points, it can no longer move.
+
+Combat:
+   1. Select the unit you wish to move.
+   2. Click the "Attack" button.
+   3. All enemy units that are within range will be highlighted in red.
+   4. Click the unit that you want to attack or click "Cancel" if you have changed
+      your mind.
+   5. The attacking unit will deal its damage first and then the defending unit will
+      counter-attack if it is also in range.
+
+Attack Types VS. Defense Types
+
++ = Super Effective
+0 = Neutral
+- = Not Very Effective
+
+       Padded   Hide    Bone
+Pierce|   +   |   -   |   0   |
+Maul  |   0   |   +   |   -   |
+Crush |   -   |   0   |   +   |
+
+Winning:
+   To win the game, you must kill all of the opposing player's cavemen
+
+Saving:
+   1. If at any point you wish to save the game, click "Save" and enter a
+      name for your saved game.
+   2. To load a saved game later, click "Load" from the main menu and choose
+      the game you want to resume.
+
+Map Editor:
+   1. If you want to edit an existing map, click "Map Editor" from the main menu.
+   2. Select the map you want and click "Edit"
+   3. To place a unit, select the unit type and player on the tool pane and simply
+      click on the location where you want to place it.
+   4. To place a terrain, switch to the terrain tab of the tool pane, select the
+      desired terrain type, and click the grid location where you want to place it.
+   5. Placing a unit overwrites any unit at the clicked location and placing a terrain
+      will overwrite both the unit and the terrain with just the new terrain.
+

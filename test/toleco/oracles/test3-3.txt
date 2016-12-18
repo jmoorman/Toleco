@@ -1,0 +1,2434 @@
+You are playing Toleco in Console Mode.Why would you not play in GUI mode with our amazing2-D graphics
+Time to fight!
+Type 'H' to see a list of available commands and how to use them.
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: none
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T:C] @ (0,0)
+
+---Selected Cell Status---
+[T:C] @ (0, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+Clown
+Health: 100/100
+Moves: 40/40
+Attack Value: 100
+Attack Range: 100
+Armor Value: 0
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (0,1)
+
+---Selected Cell Status---
+[T: ] @ (0, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (0,2)
+
+---Selected Cell Status---
+[T: ] @ (0, 2)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (0,3)
+
+---Selected Cell Status---
+[T: ] @ (0, 3)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (0,4)
+
+---Selected Cell Status---
+[T: ] @ (0, 4)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (0,5)
+
+---Selected Cell Status---
+[T: ] @ (0, 5)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (0,6)
+
+---Selected Cell Status---
+[T: ] @ (0, 6)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (0,7)
+
+---Selected Cell Status---
+[T: ] @ (0, 7)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (0,8)
+
+---Selected Cell Status---
+[T: ] @ (0, 8)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (0,9)
+
+---Selected Cell Status---
+[T: ] @ (0, 9)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (1,0)
+
+---Selected Cell Status---
+[T: ] @ (1, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T:C] @ (1,1)
+
+---Selected Cell Status---
+[T:C] @ (1, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+Clown
+Health: 100/100
+Moves: 40/40
+Attack Value: 100
+Attack Range: 100
+Armor Value: 0
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (1,2)
+
+---Selected Cell Status---
+[T: ] @ (1, 2)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (1,3)
+
+---Selected Cell Status---
+[T: ] @ (1, 3)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (1,4)
+
+---Selected Cell Status---
+[T: ] @ (1, 4)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (1,5)
+
+---Selected Cell Status---
+[T: ] @ (1, 5)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (1,6)
+
+---Selected Cell Status---
+[T: ] @ (1, 6)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (1,7)
+
+---Selected Cell Status---
+[T: ] @ (1, 7)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (1,8)
+
+---Selected Cell Status---
+[T: ] @ (1, 8)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (1,9)
+
+---Selected Cell Status---
+[T: ] @ (1, 9)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (2,0)
+
+---Selected Cell Status---
+[T: ] @ (2, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (2,1)
+
+---Selected Cell Status---
+[T: ] @ (2, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (2,2)
+
+---Selected Cell Status---
+[T: ] @ (2, 2)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (2,3)
+
+---Selected Cell Status---
+[T: ] @ (2, 3)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (2,4)
+
+---Selected Cell Status---
+[T: ] @ (2, 4)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (2,5)
+
+---Selected Cell Status---
+[T: ] @ (2, 5)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (2,6)
+
+---Selected Cell Status---
+[T: ] @ (2, 6)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (2,7)
+
+---Selected Cell Status---
+[T: ] @ (2, 7)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (2,8)
+
+---Selected Cell Status---
+[T: ] @ (2, 8)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (2,9)
+
+---Selected Cell Status---
+[T: ] @ (2, 9)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (3,0)
+
+---Selected Cell Status---
+[T: ] @ (3, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (3,1)
+
+---Selected Cell Status---
+[T: ] @ (3, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (3,2)
+
+---Selected Cell Status---
+[T: ] @ (3, 2)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (3,3)
+
+---Selected Cell Status---
+[T: ] @ (3, 3)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (3,4)
+
+---Selected Cell Status---
+[T: ] @ (3, 4)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (3,5)
+
+---Selected Cell Status---
+[T: ] @ (3, 5)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (3,6)
+
+---Selected Cell Status---
+[T: ] @ (3, 6)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (3,7)
+
+---Selected Cell Status---
+[T: ] @ (3, 7)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (3,8)
+
+---Selected Cell Status---
+[T: ] @ (3, 8)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (3,9)
+
+---Selected Cell Status---
+[T: ] @ (3, 9)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (4,0)
+
+---Selected Cell Status---
+[T: ] @ (4, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (4,1)
+
+---Selected Cell Status---
+[T: ] @ (4, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (4,2)
+
+---Selected Cell Status---
+[T: ] @ (4, 2)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (4,3)
+
+---Selected Cell Status---
+[T: ] @ (4, 3)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (4,4)
+
+---Selected Cell Status---
+[T: ] @ (4, 4)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (4,5)
+
+---Selected Cell Status---
+[T: ] @ (4, 5)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (4,6)
+
+---Selected Cell Status---
+[T: ] @ (4, 6)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (4,7)
+
+---Selected Cell Status---
+[T: ] @ (4, 7)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (4,8)
+
+---Selected Cell Status---
+[T: ] @ (4, 8)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (4,9)
+
+---Selected Cell Status---
+[T: ] @ (4, 9)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (5,0)
+
+---Selected Cell Status---
+[T: ] @ (5, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (5,1)
+
+---Selected Cell Status---
+[T: ] @ (5, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (5,2)
+
+---Selected Cell Status---
+[T: ] @ (5, 2)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (5,3)
+
+---Selected Cell Status---
+[T: ] @ (5, 3)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (5,4)
+
+---Selected Cell Status---
+[T: ] @ (5, 4)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (5,5)
+
+---Selected Cell Status---
+[T: ] @ (5, 5)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (5,6)
+
+---Selected Cell Status---
+[T: ] @ (5, 6)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (5,7)
+
+---Selected Cell Status---
+[T: ] @ (5, 7)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (5,8)
+
+---Selected Cell Status---
+[T: ] @ (5, 8)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (5,9)
+
+---Selected Cell Status---
+[T: ] @ (5, 9)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (6,0)
+
+---Selected Cell Status---
+[T: ] @ (6, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (6,1)
+
+---Selected Cell Status---
+[T: ] @ (6, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (6,2)
+
+---Selected Cell Status---
+[T: ] @ (6, 2)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (6,3)
+
+---Selected Cell Status---
+[T: ] @ (6, 3)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (6,4)
+
+---Selected Cell Status---
+[T: ] @ (6, 4)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (6,5)
+
+---Selected Cell Status---
+[T: ] @ (6, 5)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (6,6)
+
+---Selected Cell Status---
+[T: ] @ (6, 6)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (6,7)
+
+---Selected Cell Status---
+[T: ] @ (6, 7)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (6,8)
+
+---Selected Cell Status---
+[T: ] @ (6, 8)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (6,9)
+
+---Selected Cell Status---
+[T: ] @ (6, 9)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (7,0)
+
+---Selected Cell Status---
+[T: ] @ (7, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (7,1)
+
+---Selected Cell Status---
+[T: ] @ (7, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (7,2)
+
+---Selected Cell Status---
+[T: ] @ (7, 2)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (7,3)
+
+---Selected Cell Status---
+[T: ] @ (7, 3)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (7,4)
+
+---Selected Cell Status---
+[T: ] @ (7, 4)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (7,5)
+
+---Selected Cell Status---
+[T: ] @ (7, 5)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (7,6)
+
+---Selected Cell Status---
+[T: ] @ (7, 6)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (7,7)
+
+---Selected Cell Status---
+[T: ] @ (7, 7)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (7,8)
+
+---Selected Cell Status---
+[T: ] @ (7, 8)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (7,9)
+
+---Selected Cell Status---
+[T: ] @ (7, 9)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (8,0)
+
+---Selected Cell Status---
+[T: ] @ (8, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (8,1)
+
+---Selected Cell Status---
+[T: ] @ (8, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (8,2)
+
+---Selected Cell Status---
+[T: ] @ (8, 2)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (8,3)
+
+---Selected Cell Status---
+[T: ] @ (8, 3)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (8,4)
+
+---Selected Cell Status---
+[T: ] @ (8, 4)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (8,5)
+
+---Selected Cell Status---
+[T: ] @ (8, 5)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (8,6)
+
+---Selected Cell Status---
+[T: ] @ (8, 6)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (8,7)
+
+---Selected Cell Status---
+[T: ] @ (8, 7)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (8,8)
+
+---Selected Cell Status---
+[T: ] @ (8, 8)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (8,9)
+
+---Selected Cell Status---
+[T: ] @ (8, 9)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (9,0)
+
+---Selected Cell Status---
+[T: ] @ (9, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (9,1)
+
+---Selected Cell Status---
+[T: ] @ (9, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (9,2)
+
+---Selected Cell Status---
+[T: ] @ (9, 2)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (9,3)
+
+---Selected Cell Status---
+[T: ] @ (9, 3)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (9,4)
+
+---Selected Cell Status---
+[T: ] @ (9, 4)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (9,5)
+
+---Selected Cell Status---
+[T: ] @ (9, 5)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (9,6)
+
+---Selected Cell Status---
+[T: ] @ (9, 6)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (9,7)
+
+---Selected Cell Status---
+[T: ] @ (9, 7)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T: ] @ (9,8)
+
+---Selected Cell Status---
+[T: ] @ (9, 8)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+no unit
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T:C] @ (9,9)
+
+---Selected Cell Status---
+[T:C] @ (9, 9)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+Clown
+Health: 100/100
+Moves: 40/40
+Attack Value: 100
+Attack Range: 100
+Armor Value: 0
+
+Command: -------------------------------------
+Goodbye!

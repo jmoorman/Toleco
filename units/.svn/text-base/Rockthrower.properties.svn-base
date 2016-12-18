@@ -1,0 +1,8 @@
+attackType=kCrush
+attackValue=35
+attackRange=4
+armorType=kHide
+armorValue=10
+type=Rockthrower
+maxHealth=70
+maxMoves=3

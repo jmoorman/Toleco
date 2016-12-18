@@ -1,0 +1,29 @@
+You are playing Toleco in Console Mode.Why would you not play in GUI mode with our amazing2-D graphics
+Time to fight!
+Type 'H' to see a list of available commands and how to use them.
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: none
+
+Command: -------------------------------------
+Toleco v1.0 by Team Ocelot
+Team Members:
+Adam Armstrong
+Eriq Augustine
+Andrew Barton
+Jon Moorman
+Evan Ralston
+Matt Tognetti
+
+Command: -------------------------------------
+Goodbye!

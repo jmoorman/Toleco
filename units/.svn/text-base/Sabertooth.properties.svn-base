@@ -1,0 +1,8 @@
+attackType=kMaul
+attackValue=55
+attackRange=1
+armorType=kHide
+armorValue=10
+type=Sabertooth
+maxHealth=60
+maxMoves=6

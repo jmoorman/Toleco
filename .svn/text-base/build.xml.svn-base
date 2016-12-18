@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You may freely edit this file. See commented blocks below for -->
+<!-- some examples of how to customize the build. -->
+<!-- (If you delete it and reopen the project it will be recreated.) -->
+<!-- By default, only the Clean and Build commands use this build script. -->
+<!-- Commands such as Run, Debug, and Test only use this build script if -->
+<!-- the Compile on Save feature is turned off for the project. -->
+<!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
+<!-- in the project's Project Properties dialog box.-->
+<project name="Toleco" default="default" basedir=".">
+    <description>Builds, tests, and runs the project Toleco.</description>
+    <import file="nbproject/build-impl.xml"/>
+
+    <import file="nbproject/profiler-build-impl.xml"/>    <!--
+
+    There exist several targets which are by default empty and which can be 
+    used for execution of your tasks. These targets are usually executed 
+    before and after some main targets. They are: 
+
+      -pre-init:                 called before initialization of project properties
+      -post-init:                called after initialization of project properties
+      -pre-compile:              called before javac compilation
+      -post-compile:             called after javac compilation
+      -pre-compile-single:       called before javac compilation of single file
+      -post-compile-single:      called after javac compilation of single file
+      -pre-compile-test:         called before javac compilation of JUnit tests
+      -post-compile-test:        called after javac compilation of JUnit tests
+      -pre-compile-test-single:  called before javac compilation of single JUnit test
+      -post-compile-test-single: called after javac compilation of single JUunit test
+      -pre-jar:                  called before JAR building
+      -post-jar:                 called after JAR building
+      -post-clean:               called after cleaning build products
+
+    (Targets beginning with '-' are not intended to be called on their own.)
+
+    Example of inserting an obfuscator after compilation could look like this:
+
+        <target name="-post-compile">
+            <obfuscate>
+                <fileset dir="${build.classes.dir}"/>
+            </obfuscate>
+        </target>
+
+    For list of available properties check the imported 
+    nbproject/build-impl.xml file. 
+
+
+    Another way to customize the build is by overriding existing main targets.
+    The targets of interest are: 
+
+      -init-macrodef-javac:     defines macro for javac compilation
+      -init-macrodef-junit:     defines macro for junit execution
+      -init-macrodef-debug:     defines macro for class debugging
+      -init-macrodef-java:      defines macro for class execution
+      -do-jar-with-manifest:    JAR building (if you are using a manifest)
+      -do-jar-without-manifest: JAR building (if you are not using a manifest)
+      run:                      execution of project 
+      -javadoc-build:           Javadoc generation
+      test-report:              JUnit report generation
+
+    An example of overriding the target for project execution could look like this:
+
+        <target name="run" depends="Toleco-impl.jar">
+            <exec dir="bin" executable="launcher.exe">
+                <arg file="${dist.jar}"/>
+            </exec>
+        </target>
+
+    Notice that the overridden target depends on the jar target and not only on 
+    the compile target as the regular run target does. Again, for a list of available 
+    properties which you can use, check the target you are overriding in the
+    nbproject/build-impl.xml file. 
+
+    -->
+
+        <!--
+                =================
+                LOC counter (ver 2.3)
+                =================
+     -->
+<target description="Count Lines of Code in src directory." name="loc">
+<java classname="textui.LOC">
+<arg line="-n -d src/toleco/"/>
+<classpath>
+    <pathelement location="lib/LOC.jar"/>
+</classpath>
+</java>
+
+<java classname="textui.LOC">
+<arg line="-n -d src/toleco/controller"/>
+<classpath>
+    <pathelement location="lib/LOC.jar"/>
+</classpath>
+</java>
+
+<java classname="textui.LOC">
+<arg line="-n -d src/toleco/logic"/>
+<classpath>
+    <pathelement location="lib/LOC.jar"/>
+</classpath>
+</java>
+
+<java classname="textui.LOC">
+<arg line="-n -d src/toleco/terrain"/>
+<classpath>
+    <pathelement location="lib/LOC.jar"/>
+</classpath>
+</java>
+
+<java classname="textui.LOC">
+<arg line="-n -d src/toleco/unit"/>
+<classpath>
+    <pathelement location="lib/LOC.jar"/>
+</classpath>
+</java>
+
+<java classname="textui.LOC">
+<arg line="-n -d src/toleco/view"/>
+<classpath>
+    <pathelement location="lib/LOC.jar"/>
+</classpath>
+</java>
+
+<java classname="textui.LOC">
+<arg line="-n -d src/toleco/view/gui"/>
+<classpath>
+    <pathelement location="lib/LOC.jar"/>
+</classpath>
+</java>
+
+<java classname="textui.LOC">
+<arg line="-n -d src/toleco/view/gui/editor"/>
+<classpath>
+    <pathelement location="lib/LOC.jar"/>
+</classpath>
+</java>
+
+</target>
+    <!--
+                =================
+                CHECKSTYLE SECTION
+                =================
+     -->
+<target description="Run checkstyle on src directory." name="checkstyle">
+<taskdef resource="checkstyletask.properties"
+    classpath="lib/308checks.jar;lib/checkstyle-all-4.4.jar"/>
+<checkstyle config="nbproject/308style.xml">
+            <!-- Don't check IDE generated gui classes -->
+            <!-- Don't check Fakes -->
+            <!-- Don't check classes not part of this release -->
+            <fileset dir="src/" includes="**/*.java"
+            excludes=""/>
+</checkstyle>
+</target>
+    <!--
+                =================
+                DAILY BUILD
+                =================
+     -->
+<target description="Daily Build" name="daily" depends="clean,compile,jar,loc,test,System Tests,checkstyle">
+    <echo>Daily Build Complete</echo>
+</target>
+
+<!--
+                =================
+                SYSTEM TEST SECTION
+                =================
+     -->
+    <target depends="init,compile,jar" description="Run console-based system tests." name="System Tests">
+        <property name="systemtest.dir" value="test/toleco"/>
+        <property name="diffresults" value="${systemtest.dir}/diffresults.txt"/>
+        <property name="error.log" value="${systemtest.dir}/errorlog.txt"/>
+        <!-- Remove any results from previous test runs -->
+        <delete >
+            <fileset dir="${systemtest.dir}/results" includes="**/*" />
+        </delete>
+        <delete file="${diffresults}"/>
+        <delete file="${error.log}"/>
+
+        <echo message="running systest1-1"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test1-1.in"
+            output="${systemtest.dir}/results/test1-1.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap2.ocem"/>
+        </java>
+
+        <echo message="running systest1-2"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test1-2.in"
+            output="${systemtest.dir}/results/test1-2.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap2.ocem"/>
+        </java>
+
+        <echo message="running systest2-1"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test2-1.in"
+            output="${systemtest.dir}/results/test2-1.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest2-2"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test2-2.in"
+            output="${systemtest.dir}/results/test2-2.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest3-1"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test3-1.in"
+            output="${systemtest.dir}/results/test3-1.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest3-2"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test3-2.in"
+            output="${systemtest.dir}/results/test3-2.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest3-3"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test3-3.in"
+            output="${systemtest.dir}/results/test3-3.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest4-1"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test4-1.in"
+            output="${systemtest.dir}/results/test4-1.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest4-2"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test4-2.in"
+            output="${systemtest.dir}/results/test4-2.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest5-12"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test5-12.in"
+            output="${systemtest.dir}/results/test5-12.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest5-34"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test5-34.in"
+            output="${systemtest.dir}/results/test5-34.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest5-56"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test5-56.in"
+            output="${systemtest.dir}/results/test5-56.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest6-1"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test6-1.in"
+            output="${systemtest.dir}/results/test6-1.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest6-2"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test6-2.in"
+            output="${systemtest.dir}/results/test6-2.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest6-3"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test6-3.in"
+            output="${systemtest.dir}/results/test6-3.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestMap.ocem"/>
+        </java>
+
+        <echo message="running systest7-1"/>
+        <java
+            dir="."
+            jar="dist/Toleco.jar"
+            fork="true"
+            input="${systemtest.dir}/consoledata/test7-1.in"
+            output="${systemtest.dir}/results/test7-1.out"
+            error="${error.log}"
+            append="true">
+            <arg line="-c maps/TestGameOver.ocem"/>
+        </java>
+
+
+        <echo message="Comparing results"/>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test1-1.out oracles/test1-1.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test1-2.out oracles/test1-2.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test2-1.out oracles/test2-1.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test2-2.out oracles/test2-2.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test3-1.out oracles/test3-1.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test3-2.out oracles/test3-2.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test3-3.out oracles/test3-3.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test4-1.out oracles/test4-1.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test4-2.out oracles/test4-2.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test5-12.out oracles/test5-12.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test5-34.out oracles/test5-34.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test5-56.out oracles/test5-56.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test6-1.out oracles/test6-1.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test6-2.out oracles/test6-2.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test6-3.out oracles/test6-3.txt"/>
+        </exec>
+        <exec dir="${systemtest.dir}" executable="/usr/bin/diff" osfamily="unix"
+              output="${diffresults}" append="true">
+            <arg line="results/test7-1.out oracles/test7-1.txt"/>
+        </exec>
+
+
+    </target>
+</project>

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/Ocelot/!svn/ver/394/Trunk/Toleco/test/toleco/unit
+END
+UnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/Ocelot/!svn/ver/394/Trunk/Toleco/test/toleco/unit/UnitTest.java
+END
+ArmorTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/Ocelot/!svn/ver/352/Trunk/Toleco/test/toleco/unit/ArmorTypeTest.java
+END
+DefaultUnitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Ocelot/!svn/ver/205/Trunk/Toleco/test/toleco/unit/DefaultUnitTest.java
+END
+UnitFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/Ocelot/!svn/ver/325/Trunk/Toleco/test/toleco/unit/UnitFactoryTest.java
+END
+AttackTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/Ocelot/!svn/ver/352/Trunk/Toleco/test/toleco/unit/AttackTypeTest.java
+END

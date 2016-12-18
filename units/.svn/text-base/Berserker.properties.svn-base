@@ -1,0 +1,8 @@
+attackType=kMaul
+attackValue=75
+attackRange=1
+armorType=kBone
+armorValue=-15
+type=Berserker
+maxHealth=75
+maxMoves=5

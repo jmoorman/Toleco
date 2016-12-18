@@ -1,0 +1,31 @@
+<<<<<<< .mine
+<<<<<<< .mine
+=======
+>>>>>>> .r224
+compile.on.save=true
+<<<<<<< .mine
+do.depend=false
+do.jar=true
+javac.debug=true
+javadoc.preview=true
+user.properties.file=/home/jmoorman/.netbeans/6.5/build.properties
+=======
+jaxbwiz.endorsed.dirs=C:\\Program Files (x86)\\NetBeans 6.8\\ide12\\modules\\ext\\jaxb\\api
+user.properties.file=C:\\Documents and Settings\\Jon\\.netbeans\\6.8\\build.properties
+>>>>>>> .r79
+=======
+<<<<<<< .mine
+=======
+>>>>>>> .r224
+compile.on.save=true
+<<<<<<< .mine
+do.depend=false
+do.jar=true
+javac.debug=true
+javadoc.preview=true
+user.properties.file=/home/jmoorman/.netbeans/6.5/build.properties
+=======
+jaxbwiz.endorsed.dirs=/usr/local/netbeans-6.8/ide12/modules/ext/jaxb/api
+user.properties.file=/home/eriq/.netbeans/6.8/build.properties
+>>>>>>> .r79
+>>>>>>> .r335

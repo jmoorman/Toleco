@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AWTTestScript>
+  <component class="sun.swing.FilePane" id="FilePane Instance" index="2" parent="JFileChooser Instance" window="Help Menu" />
+  <component class="javax.swing.JButton" id="Help" index="3" parent="JPanel Instance" text="Help" window="TolecoApp Instance" />
+  <component class="javax.swing.JDialog" id="Help Menu" parent="TolecoApp Instance" title="Help Menu" />
+  <component class="javax.swing.JFileChooser" id="JFileChooser Instance" index="0" parent="JPanel Instance 5" window="Help Menu" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance" index="1" parent="JRootPane Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 2" index="1" parent="JRootPane Instance 2" window="Help Menu" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 3" index="1" parent="JRootPane Instance 3" window="Help Menu" />
+  <component class="javax.swing.JList" id="JList Instance" index="0" parent="JViewport Instance" window="Help Menu" />
+  <component class="javax.swing.JOptionPane" id="JOptionPane Instance" index="0" parent="JPanel Instance 3" window="Help Menu" />
+  <component class="javax.swing.JPanel" id="JPanel Instance" index="0" parent="JPanel Instance 2" window="TolecoApp Instance" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 2" index="0" parent="JLayeredPane Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 3" index="0" parent="JLayeredPane Instance 2" window="Help Menu" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 4" index="0" parent="FilePane Instance" window="Help Menu" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 5" index="0" parent="JLayeredPane Instance 3" window="Help Menu" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 6" index="3" parent="JPanel Instance 7" window="Help Menu" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 7" index="3" parent="JFileChooser Instance" window="Help Menu" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance" index="0" parent="TolecoApp Instance" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 2" index="0" parent="Help Menu" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 3" index="0" parent="Help Menu" />
+  <component class="javax.swing.JScrollPane" id="JScrollPane Instance" index="0" parent="JPanel Instance 4" window="Help Menu" />
+  <component class="javax.swing.JViewport" id="JViewport Instance" index="0" parent="JScrollPane Instance" window="Help Menu" />
+  <component class="javax.swing.JButton" id="Load" index="0" parent="JPanel Instance 6" text="Load" window="Help Menu" />
+  <component class="javax.swing.JButton" id="New Game" index="0" parent="JPanel Instance" text="New Game" window="TolecoApp Instance" />
+  <component class="javax.swing.JButton" id="Ocelot" index="5" parent="JPanel Instance" text="Ocelot" window="TolecoApp Instance" />
+  <component class="javax.swing.JButton" id="OptionPane.button" index="0" name="OptionPane.button" parent="OptionPane.buttonArea" text="OK" window="Help Menu" />
+  <component class="javax.swing.JPanel" id="OptionPane.buttonArea" index="1" name="OptionPane.buttonArea" parent="JOptionPane Instance" window="Help Menu" />
+  <component class="toleco.TolecoApp" id="TolecoApp Instance" root="true" title="" />
+  <launch args="[]" class="toleco.TolecoDriver" classpath=".:Toleco.jar" method="main" />
+  <sequence>
+    <action args="Help" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Help Menu" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="OptionPane.button" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Help Menu" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <assert component="TolecoApp Instance" method="isVisible" />
+    <action args="TolecoApp Instance" class="java.awt.Window" method="actionClose" />
+  </sequence>
+  <terminate />
+</AWTTestScript>
+

@@ -1,0 +1,24 @@
+kPlayer1
+Mountains,Road,Road,Plains,Plains,Plains,Plains,Plains,Plains,Plains
+Plains,Road,Road,Plains,Plains,Plains,Plains,Plains,Plains,Plains
+Plains,Road,Road,Plains,Plains,Plains,Plains,Mountains,Mountains,Mountains
+Plains,Road,Road,Plains,Plains,Plains,Plains,Mountains,Woods,Mountains
+Water,Road,Road,Water,Water,Water,Water,Water,Water,Road
+Water,Road,Road,Water,Water,Water,Water,Water,Water,Road
+Plains,Road,Road,Plains,Plains,Plains,Plains,Mountains,Woods,Mountains
+Plains,Road,Road,Plains,Plains,Plains,Plains,Mountains,Mountains,Mountains
+Plains,Road,Road,Plains,Plains,Plains,Plains,Plains,Plains,Plains
+Mountains,Road,Road,Plains,Plains,Plains,Plains,Plains,Plains,Plains
+~,0,5,Spearman,kPlayer1,100,3,true
+~,0,8,Terrorbird,kPlayer1,100,5,true
+~,0,9,Armoredillo,kPlayer1,100,2,true
+~,1,5,Brute,kPlayer1,100,3,true
+~,1,6,Berserker,kPlayer1,75,5,true
+~,1,9,Rockthrower,kPlayer1,70,3,true
+~,8,5,Brute,kPlayer2,100,3,true
+~,8,6,Berserker,kPlayer2,75,5,true
+~,8,9,Rockthrower,kPlayer2,70,3,true
+~,9,5,Spearman,kPlayer2,100,3,true
+~,9,8,Terrorbird,kPlayer2,100,5,true
+~,9,9,Armoredillo,kPlayer2,100,2,true
+The two warring tribes meet again. The mighty Swoosh River is not a force to be reckoned with. Over a hundred mile stretch, only two bridges were ever constructed. Control of the bridges means control of the entire region. This battle will surely seal the fate for one of the tribes.

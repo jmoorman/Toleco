@@ -1,0 +1,8 @@
+attackType=kCrush
+attackValue=40
+attackRange=1
+armorType=kHide
+armorValue=10
+type=Brute
+maxHealth=100
+maxMoves=3

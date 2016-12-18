@@ -1,0 +1,33 @@
+You are playing Toleco in Console Mode.Why would you not play in GUI mode with our amazing2-D graphics
+Time to fight!
+Type 'H' to see a list of available commands and how to use them.
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: none
+
+Command: -------------------------------------
+Toleco Console Commands
+-----------------------
+Select: 'S x,y' - x and y are coordinates of terrain you want to select
+Attack: 'A x,y' - x and y are coordinates of the terrain you want to attack.
+  A terrain with a unit on it must be selected prior to using this command
+Move: 'M d' - d is the direction you would like to move.
+  left:l, right:r, up:u, down:d
+  A terrain with a unit under your control must have aready been selected.
+End Turn: 'E' - ends the current player's turn
+Quit: 'Q' - exits the Toleco App
+Help: 'H' - displays this help text
+About: 'O' - displays the about test
+
+Command: -------------------------------------
+Goodbye!

@@ -1,0 +1,8 @@
+attackType=kPierce
+attackValue=30
+attackRange=1
+armorType=kBone
+armorValue=25
+type=Armoredillo
+maxHealth=100
+maxMoves=2

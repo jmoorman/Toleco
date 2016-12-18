@@ -1,0 +1,8 @@
+attackType=kCrush
+attackValue=100
+attackRange=100
+armorType=kPadded
+armorValue=0
+type=TestUnit
+maxHealth=100
+maxMoves=40

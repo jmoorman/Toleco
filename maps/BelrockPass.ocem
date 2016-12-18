@@ -1,0 +1,23 @@
+kPlayer1
+Water,Water,Mountains,Water,Mountains,Mountains,Mountains,Mountains,Mountains,Mountains
+Water,Water,Mountains,Water,Mountains,Mountains,Mountains,Mountains,Mountains,Mountains
+Mountains,Water,Water,Water,Plains,Plains,Woods,Woods,Mountains,Mountains
+Mountains,Mountains,Plains,Plains,Plains,Plains,Woods,Road,Road,Road
+Mountains,Mountains,Plains,Road,Road,Road,Road,Road,Mountains,Mountains
+Mountains,Mountains,Plains,Road,Woods,Plains,Plains,Plains,Mountains,Mountains
+Mountains,Mountains,Plains,Road,Woods,Plains,Plains,Plains,Mountains,Mountains
+Road,Road,Road,Road,Woods,Plains,Plains,Plains,Mountains,Mountains
+Mountains,Mountains,Mountains,Mountains,Mountains,Mountains,Mountains,Mountains,Mountains,Mountains
+Mountains,Mountains,Mountains,Mountains,Mountains,Mountains,Mountains,Mountains,Mountains,Mountains
+~,0,9,Sabertooth,kPlayer1,60,6,true
+~,2,8,Rockthrower,kPlayer1,70,3,true
+~,3,6,Spearman,kPlayer1,100,3,true
+~,3,9,Mammoth,kPlayer1,150,2,true
+~,4,6,Armoredillo,kPlayer1,100,2,true
+~,4,8,Rockthrower,kPlayer1,70,3,true
+~,5,1,Berserker,kPlayer2,75,5,true
+~,7,0,Mammoth,kPlayer2,150,2,true
+~,7,1,Berserker,kPlayer2,75,5,true
+~,8,3,Berserker,kPlayer2,75,5,true
+~,9,0,Sabertooth,kPlayer2,60,6,true
+As Leaftron supplies wear increasingly thin they venture deep into the rugged Kirithungul Mountains. It is there that they find the Crogmar tribe once again blocking their way. Attempts at peaceful resolution fail when a single rock is thrown. It is not known from which side the rock was hurled... it matters not. Locked in a desperate struggle for survival both sides must now fight for the preservation of their people.

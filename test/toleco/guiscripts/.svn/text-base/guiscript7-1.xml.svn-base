@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AWTTestScript>
+  <component class="javax.swing.JButton" id="Attack" index="1" parent="GameButtonView Instance" text="Attack" window="TolecoApp Instance" />
+  <component class="sun.swing.FilePane" id="FilePane Instance" index="2" parent="JFileChooser Instance" window="Open" />
+  <component class="toleco.view.gui.GameButtonView" id="GameButtonView Instance" index="1" parent="JPanel Instance 7" window="TolecoApp Instance" />
+  <component class="javax.swing.JFileChooser" id="JFileChooser Instance" index="0" parent="JPanel Instance 4" window="Open" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance" index="1" parent="JRootPane Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 2" index="1" parent="JRootPane Instance 2" window="Open" />
+  <component class="javax.swing.JList" id="JList Instance" index="0" parent="JViewport Instance" window="Open" />
+  <component class="javax.swing.JPanel" hOrder="1" id="JPanel Instance" index="0" parent="JPanel Instance 2" window="TolecoApp Instance" />
+  <component class="javax.swing.JPanel" hOrder="1" id="JPanel Instance 2" index="0" parent="JLayeredPane Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 3" index="0" parent="FilePane Instance" window="Open" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 4" index="0" parent="JLayeredPane Instance 2" window="Open" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 5" index="3" parent="JPanel Instance 6" window="Open" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 6" index="3" parent="JFileChooser Instance" window="Open" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 7" index="1" parent="JPanel Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance" index="0" parent="TolecoApp Instance" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 2" index="0" parent="Open" />
+  <component class="javax.swing.JScrollPane" id="JScrollPane Instance" index="0" parent="JPanel Instance 3" window="Open" />
+  <component class="javax.swing.JTable" id="JTable Instance" index="0" parent="MapView Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JViewport" id="JViewport Instance" index="0" parent="JScrollPane Instance" window="Open" />
+  <component class="javax.swing.JButton" id="Load" index="0" parent="JPanel Instance 5" text="Load" window="Open" />
+  <component class="toleco.view.gui.MapView" id="MapView Instance" index="0" parent="JPanel Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JButton" id="New Game" index="0" parent="JPanel Instance" text="New Game" window="TolecoApp Instance" />
+  <component class="javax.swing.JButton" id="Ocelot" index="5" parent="JPanel Instance" text="Ocelot" window="TolecoApp Instance" />
+  <component class="javax.swing.JDialog" id="Open" parent="TolecoApp Instance" title="Open" />
+  <component class="toleco.TolecoApp" id="TolecoApp Instance" root="true" title="" />
+  <launch args="[]" class="toleco.TolecoDriver" classpath=".:Toleco.jar" method="main" />
+  <sequence>
+    <action args="New Game" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Open" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JList Instance,&quot;TestGameOver.ocem&quot;" class="javax.swing.JList" method="actionSelectRow" />
+    <action args="Load" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Open" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance,[0,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <action args="Attack" class="javax.swing.AbstractButton" method="actionClick" />
+    <action args="JTable Instance,[1,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <wait args="Open" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="Load" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Open" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <assert component="Ocelot" method="isVisible" />
+    <action args="TolecoApp Instance" class="java.awt.Window" method="actionClose" />
+  </sequence>
+  <terminate />
+</AWTTestScript>
+

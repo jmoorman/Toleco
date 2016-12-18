@@ -1,0 +1,8 @@
+attackType=kCrush
+attackValue=55
+attackRange=1
+armorType=kBone
+armorValue=20
+type=Mammoth
+maxHealth=150
+maxMoves=2

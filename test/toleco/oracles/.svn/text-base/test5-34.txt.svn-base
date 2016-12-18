@@ -1,0 +1,215 @@
+You are playing Toleco in Console Mode.Why would you not play in GUI mode with our amazing2-D graphics
+Time to fight!
+Type 'H' to see a list of available commands and how to use them.
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: none
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T:C] @ (0,0)
+
+---Selected Cell Status---
+[T:C] @ (0, 0)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+Clown
+Health: 100/100
+Moves: 40/40
+Attack Value: 100
+Attack Range: 100
+Armor Value: 0
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T:C] @ (0,1)
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T:C] @ (0,1)
+
+----Battle Summary----
+Attacker: Clown
+Defender: Clown
+Summary: Leaftron attacked Cromagmar for 50 damage
+Cromagmar counter-attacked Leaftron for 37 damage
+
+Command: -------------------------------------
+End turn
+    0    1    2    3    4    5    6    7    8    9
+0 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer2
+Selected cell: none
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer2
+Selected cell: [T:C] @ (1,1)
+
+---Selected Cell Status---
+[T:C] @ (1, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+Clown
+Health: 50/100
+Moves: 40/40
+Attack Value: 100
+Attack Range: 100
+Armor Value: 0
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer2
+Selected cell: [T:C] @ (1,1)
+
+----Battle Summary----
+Attacker: Clown
+Defender: Clown
+Summary: Cromagmar attacked Leaftron for 37 damage
+Leaftron counter-attacked Cromagmar for 31 damage
+
+Command: -------------------------------------
+End turn
+    0    1    2    3    4    5    6    7    8    9
+0 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: none
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T:C] @ (0,1)
+
+---Selected Cell Status---
+[T:C] @ (0, 1)
+--Terrain--
+Terrain type: TestTerrain
+Defense mod: 0
+Move cost:1
+--Unit--
+Clown
+Health: 26/100
+Moves: 40/40
+Attack Value: 100
+Attack Range: 100
+Armor Value: 0
+
+Command: -------------------------------------
+    0    1    2    3    4    5    6    7    8    9
+0 [T: ][T:C][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+1 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+2 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+3 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+4 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+5 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+6 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+7 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+8 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ]
+9 [T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T: ][T:C]
+Current Player: kPlayer1
+Selected cell: [T:C] @ (0,1)
+
+----Battle Summary----
+Attacker: Clown
+Defender: Clown
+Summary: Leaftron attacked Cromagmar for 19 damage
+
+Command: -------------------------------------
+Goodbye!

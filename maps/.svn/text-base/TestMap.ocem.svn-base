@@ -1,0 +1,15 @@
+kPlayer1
+TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain
+TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain
+TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain
+TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain
+TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain
+TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain
+TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain
+TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain
+TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain
+TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain,TestTerrain
+~,0,0,Clown,kPlayer1,100,40,true
+~,1,1,Clown,kPlayer2,100,40,true
+~,9,9,Clown,kPlayer2,100,40,true
+Time to fight!

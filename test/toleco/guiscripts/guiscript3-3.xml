@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AWTTestScript>
+  <component class="javax.swing.JLabel" id="  Terrain:" index="5" parent="UnitSelected Instance" text="  Terrain:" window="TolecoApp Instance" />
+  <component class="javax.swing.JLabel" id="Brute" index="15" parent="UnitSelected Instance" text="Brute" window="TolecoApp Instance" />
+  <component class="sun.swing.FilePane" id="FilePane Instance" index="2" parent="JFileChooser Instance" window="Open" />
+  <component class="javax.swing.JFileChooser" id="JFileChooser Instance" index="0" parent="JPanel Instance 4" window="Open" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance" index="1" parent="JRootPane Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JLayeredPane" id="JLayeredPane Instance 2" index="1" parent="JRootPane Instance 2" window="Open" />
+  <component class="javax.swing.JList" id="JList Instance" index="0" parent="JViewport Instance" window="Open" />
+  <component class="javax.swing.JPanel" hOrder="1" id="JPanel Instance" index="0" parent="JPanel Instance 2" window="TolecoApp Instance" />
+  <component class="javax.swing.JPanel" hOrder="1" id="JPanel Instance 2" index="0" parent="JLayeredPane Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 3" index="0" parent="FilePane Instance" window="Open" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 4" index="0" parent="JLayeredPane Instance 2" window="Open" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 5" index="3" parent="JPanel Instance 6" window="Open" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 6" index="3" parent="JFileChooser Instance" window="Open" />
+  <component class="javax.swing.JPanel" id="JPanel Instance 7" index="1" parent="JPanel Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance" index="0" parent="TolecoApp Instance" />
+  <component class="javax.swing.JRootPane" id="JRootPane Instance 2" index="0" parent="Open" />
+  <component class="javax.swing.JScrollPane" id="JScrollPane Instance" index="0" parent="JPanel Instance 3" window="Open" />
+  <component class="javax.swing.JTable" id="JTable Instance" index="0" parent="MapView Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JViewport" id="JViewport Instance" index="0" parent="JScrollPane Instance" window="Open" />
+  <component class="javax.swing.JButton" id="Load" index="0" parent="JPanel Instance 5" text="Load" window="Open" />
+  <component class="toleco.view.gui.MapView" id="MapView Instance" index="0" parent="JPanel Instance" window="TolecoApp Instance" />
+  <component class="javax.swing.JButton" id="New Game" index="0" parent="JPanel Instance" text="New Game" window="TolecoApp Instance" />
+  <component class="javax.swing.JDialog" id="Open" parent="TolecoApp Instance" title="Open" />
+  <component class="javax.swing.JLabel" id="Plains" index="4" parent="TerrainSelected Instance" text="Plains" window="TolecoApp Instance" />
+  <component class="toleco.view.gui.StatusView" id="StatusView Instance" index="0" parent="JPanel Instance 7" window="TolecoApp Instance" />
+  <component class="toleco.view.gui.TerrainSelected" id="TerrainSelected Instance" index="1" parent="StatusView Instance" window="TolecoApp Instance" />
+  <component class="toleco.TolecoApp" id="TolecoApp Instance" root="true" title="" />
+  <component class="toleco.view.gui.UnitSelected" id="UnitSelected Instance" index="0" parent="StatusView Instance" window="TolecoApp Instance" />
+  <launch args="[]" class="toleco.TolecoDriver" classpath=".:Toleco.jar" method="main" />
+  <sequence>
+    <action args="New Game" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Open" class="abbot.tester.ComponentTester" method="assertComponentShowing" />
+    <action args="JList Instance,&quot;TestMap.ocem&quot;" class="javax.swing.JList" method="actionSelectRow" />
+    <action args="Load" class="javax.swing.AbstractButton" method="actionClick" />
+    <wait args="Open" class="abbot.tester.ComponentTester" invert="true" method="assertComponentShowing" />
+    <action args="JTable Instance,[0,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Brute" method="getText" value="Clown" />
+    <action args="JTable Instance,[0,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[0,2]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[0,3]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[0,4]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[0,5]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[0,6]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[0,7]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[0,8]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[0,9]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[1,9]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[1,8]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[1,7]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[1,6]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[1,5]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[1,4]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[1,3]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[1,2]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[1,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Brute" method="getText" value="Clown" />
+    <action args="JTable Instance,[1,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[2,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[2,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[2,2]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[2,3]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[2,4]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[2,5]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[2,6]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[2,7]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[2,8]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[2,9]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[3,9]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[3,8]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[3,7]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[3,6]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[3,5]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[3,4]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[3,3]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[3,2]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[3,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[3,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[4,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[4,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[4,2]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[4,3]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[4,4]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[4,5]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[4,6]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[4,7]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[4,8]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[4,9]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[5,9]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[5,8]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[5,7]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[5,6]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[5,5]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[5,4]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[5,3]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[5,2]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[5,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[5,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[6,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[6,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[6,2]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[6,3]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[6,4]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[6,5]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[6,6]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[6,7]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[6,8]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[6,9]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[7,9]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[7,8]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[7,7]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[7,6]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[7,5]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[7,4]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[7,3]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[7,2]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[7,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[7,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[8,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[8,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[8,2]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[8,3]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[8,4]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[8,5]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[8,6]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[8,7]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[8,8]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[8,9]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[9,9]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Brute" method="getText" value="Clown" />
+    <action args="JTable Instance,[9,8]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[9,7]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[9,6]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[9,5]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[9,4]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[9,3]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[9,2]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[9,1]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+    <action args="JTable Instance,[9,0]" class="javax.swing.JTable" method="actionSelectCell" />
+    <assert component="Plains" method="getText" value="TestTerrain" />
+  </sequence>
+  <terminate />
+</AWTTestScript>
+
